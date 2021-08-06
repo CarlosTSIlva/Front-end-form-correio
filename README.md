@@ -17,6 +17,10 @@ Contarão pontos extras caso o sistema seja hospedado em algum lugar (recomendam
 ## Prototipo
 
 ![Tela 1](https://raw.githubusercontent.com/octamais/teste-frontend-01/master/assets/proto/screen1.jpeg)
+_Tela 1_
 ![Tela 1.2](https://raw.githubusercontent.com/octamais/teste-frontend-01/master/assets/proto/screen1.2.jpeg)
+_Tela 1.2_
 ![Tela 2](https://raw.githubusercontent.com/octamais/teste-frontend-01/master/assets/proto/screen2.jpeg)
+_Tela 2_
 ![Tela 3](https://raw.githubusercontent.com/octamais/teste-frontend-01/master/assets/proto/screen3.jpeg)
+_Tela 3_
