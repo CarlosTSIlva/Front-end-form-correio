@@ -13,3 +13,10 @@ A tela numero 1 deverá renderizar primeiramente os campos de usuário, como mos
 A estrutura do projeto já será entregue junto com as dependências necessárias, só será preciso consumir a API de CEP para buscar o endereço (recomendamos o serviço gratuito buscaCep). Assim como serão entregues os protótipos a serem seguidos para a criação da tela.
 
 Contarão pontos extras caso o sistema seja hospedado em algum lugar (recomendamos o serviço gratuito do Heroku) e se houver teste unitários.
+
+## Prototipo
+
+![Tela 1]()
+![Tela 1.2]()
+![Tela 2]()
+![Tela 3]()
