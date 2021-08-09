@@ -1,7 +1,7 @@
-import { Select } from "@chakra-ui/react";
 import { Route, Switch } from "react-router-dom";
 import Finish from "../Pages/Finish";
 import MainPage from "../Pages/Main";
+import Select from "../Pages/Select";
 
 const Routes: React.FC = () => {
   return (

@@ -6,6 +6,7 @@ export const Container = styled.div`
   font-family: sans-serif;
   height: 100%;
   padding-bottom: 8%;
+  padding-top: 4%;
   section {
     width: 40rem;
     display: flex;
