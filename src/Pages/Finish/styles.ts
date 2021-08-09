@@ -5,6 +5,7 @@ export const Container = styled.div`
   place-items: center;
   font-family: sans-serif;
   height: 100%;
+  padding-bottom: 8%;
   section {
     width: 40rem;
     display: flex;
