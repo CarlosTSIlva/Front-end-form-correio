@@ -1,14 +1,15 @@
 import styled from "styled-components";
 
 export const Container = styled.div`
-  max-width: 100vw;
-  height: 100%;
   display: grid;
   place-items: center;
   font-family: sans-serif;
-  padding-bottom: 100px;
+  height: 100%;
   section {
-    width: 30rem;
+    width: 40rem;
+    display: flex;
+    flex-direction: column;
+    font-size: large;
   }
 
   h1 {
